@@ -1,0 +1,14 @@
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\bin\Debug\net8.0\Project while Johnathan is gone.exe
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\bin\Debug\net8.0\Project while Johnathan is gone.deps.json
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\bin\Debug\net8.0\Project while Johnathan is gone.runtimeconfig.json
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\bin\Debug\net8.0\Project while Johnathan is gone.dll
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\bin\Debug\net8.0\Project while Johnathan is gone.pdb
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.AssemblyInfoInputs.cache
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.AssemblyInfo.cs
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.csproj.CoreCompileInputs.cache
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.dll
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\refint\Project while Johnathan is gone.dll
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.pdb
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\Project while Johnathan is gone.genruntimeconfig.cache
+C:\Users\MCA-27\source\repos\Project while Johnathan is gone\obj\Debug\net8.0\ref\Project while Johnathan is gone.dll
